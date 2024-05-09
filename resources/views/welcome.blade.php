@@ -112,7 +112,7 @@ https://templatemo.com/tm-566-medic-care
                                 </div>
                             </h1>
 
-                            <p class="mb-4">Bem-vindo ao Instituto Quadril, seu destino confiável para cuidados
+                            <p class="mb-4 mt-5">Bem-vindo ao Instituto Quadril, seu destino confiável para cuidados
                                 ortopédicos de qualidade. No Instituto Quadril, estamos comprometidos em proporcionar
                                 excelência em tratamentos ortopédicos, especialmente no cuidado do quadril.</p>
 
@@ -278,7 +278,7 @@ https://templatemo.com/tm-566-medic-care
     <footer class="site-footer section-padding" id="contact">
         <h2 class="text-center mb-lg-5 mb-4">Como chegar</h2>
         <div class="row">
-            <div class="container text-center">
+            <div class="d-flex justify-content-center">
                 <div class="card w-50 p-3">
                     <div class="card-body">
                         <h5 class="card-title">Encontre pelo MAPS</h5>
